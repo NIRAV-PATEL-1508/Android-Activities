@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" formatted="true">Nirav</string>
+    <string-array name="branch">
+        <item>Computer Engineering</item>
+        <item>Mechnical Engineering</item>
+        <item>Electric Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Information Technology</item>
+        <item>Artificial Inteligence</item>
+        <item>Cyber Security</item>
+    </string-array>
+</resources>
